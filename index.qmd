@@ -1,6 +1,8 @@
 # Welcome! {.unnumbered}
 ## A template to write books ready for self-publishing
 
+Doing a first edit and see how the workflows ... flow!
+
 Go to [https://github.com/b-rodrigues/kdp_quarto](https://github.com/b-rodrigues/kdp_quarto) for the source code.
 
 Go to [https://b-rodrigues.github.io/kdp_quarto/](https://b-rodrigues.github.io/kdp_quarto/) to visit the published website.
